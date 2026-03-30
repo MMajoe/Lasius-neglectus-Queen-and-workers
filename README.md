@@ -4,6 +4,8 @@ Supplementary Table 4: BlastP hits
 Supplementary Table 5: Data and statistics for the oxidative stress experiment
 Supplementary Table 6: DESeq2 analysis and GO annotation
 Supplementary Table 7: Candidate genes (TiJ-LiFe, oxidative stress, vitellogenins, genes affected by queen pheromones in other Hymenoptera)
+
+
 Data Files:
 1.	ReadM_Me_FilesAndSheets_Analyses.xlsx
 2.	DESeq2 analysis:
