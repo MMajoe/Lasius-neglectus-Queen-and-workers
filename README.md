@@ -20,8 +20,9 @@ LnegTIJOGs.xlsx; LnegOxStressOgs.xlsx
 Results_OvariesAvil.xlsx
 R-scripts:
 Supplementary_RScript_OxidativeStress_Lneglectus.R
-Supplementary_RScript_GeneExpressionDeseq2.R
-Supplementary_LneglectusQueens_Ovaries.R-ADD LATEST YOU HAVE!
-Supplementary_RScript_TopGOandBHcorrection.R
+Supplementary_RScript_GeneExpressionDeseq2_JEB.R
+Supplementary_LneglectusQueens_Ovaries.R
+Supplementary_RScript_TopGOandBHcorrection
 Supplementary_Lneg_OrthofinderGenes_DEG.R
+
 ADD HOLMAN SCRIPT_LATEST
