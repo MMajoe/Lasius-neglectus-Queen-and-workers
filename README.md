@@ -26,5 +26,3 @@ Supplementary_RScript_GeneExpressionDeseq2_JEB.R
 Supplementary_LneglectusQueens_Ovaries.R
 Supplementary_RScript_TopGOandBHcorrection
 Supplementary_Lneg_OrthofinderGenes_DEG.R
-
-ADD HOLMAN SCRIPT_LATEST
