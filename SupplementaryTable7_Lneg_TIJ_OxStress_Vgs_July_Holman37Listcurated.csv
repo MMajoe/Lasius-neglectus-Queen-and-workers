@@ -1,0 +1,46 @@
+qseqid,name Holman et al 2019,Holman Genebank blast hit,Remarks
+NP_001172074.1,actin related protein 1,GB44311,
+NP_001172075.1,actin related protein 1,GB44311,
+NP_001010975.1,ADP/ATP translocase,GB42422,
+XP_006559245.1 ,arginine kinase isoform X2,GB54446,XP NP are same and XP is in proteome as latest
+NP_001011603.1,arginine kinase isoform X2,GB54446,XP NP are same and XP is in proteome as latest
+NP_001153522.1,heat shock protein cognate 4,GB40866,
+XP_006558384.1 ,myosin regulatory light chain 2,GB40240,
+XP_026297654.1 ,peroxidase isoform X2,GB49688,
+XP_624661.1 ,probable Bax inhibitor 1,GB45181,
+XP_001119928.2  ,probable cytochrome P450 304a1,GB47885,
+NP_001171498.1 ,superoxide dismutase 1,GB47880,
+XP_006563276.1,transaldolase,GB40779,
+XP_006563745.1,transitional endoplasmic reticulum ATPase TER94,GB50274,
+XP_006569853.1 ,uncharacterized protein LOC100576760 isoform X2,GB51753,
+XP_624343.2,uncharacterized protein LOC551958,GB54423,
+XP_006566986.1,"6-phosphogluconate dehydrogenase, decarboxylating",GB52074,
+XP_395426.5,fatty acid synthase-like isoform 1,GB52590,
+XP_395548.2,"hexaprenyldihydroxybenzoate methyltransferase, mitochondrial-like",GB43902,
+XP_006563201.2,intracellular protein transport protein USO1 isoform X2,GB45937,The protein 'name' is not the same anymore?
+XP_006562600.2 ,LOW QUALITY PROTEIN: counting factor associated protein D-like,GB54861,The protein 'name' is not the same anymore?
+XP_016767639.1 ,muscle M-line assembly protein unc-89 isoform X5,GB46705,The protein 'name' is not the same anymore?
+XP_392078.2 ,myophilin-like,GB50123,
+XP_006558909.1,myosin light chain alkali-like isoform X5,GB51787,"isoform5 no longer exists, so isoform 1 and 2"
+XP_393544.3,myosin light chain alkali-like isoform X5,GB51787,"isoform5 no longer exists, so isoform 1 and 2"
+XP_006559321.1 ,NADP-dependent malic enzyme isoform X3,GB55096,"isoform3 no longer exists, so isoform 1 and 2"
+XP_395280.4,NADP-dependent malic enzyme isoform X3,GB55096,"isoform3 no longer exists, so isoform 1 and 2"
+XP_026296851.1,neurofilament heavy polypeptide-like isoform X2,409060,The protein 'name' is not the same anymore? 409060 is hopefully UID
+XP_016769017.1,Unknown gene 1,XP_016769017.1,chitinase-like protein EN03 isoform X1
+XP_016770377.1,Unknown gene 2,XP_016770377.1,record suppressed by NCBI'
+XP_016767675.2,Unknown gene 3,XP_016767675.1,sequence been updated'
+XP_016772080.1,Unknown gene 4,XP_016772080.1,record suppressed by NCBI'
+KMQ89694.1,Unknown gene 5,RF55_10649,Doesn't blast against Apis mellifera
+XP_394680.3,proteasome subunit beta type-5-like,GB44205,The protein 'name' is not the same anymore?
+XP_026296339.1,very-long-chain enoyl-CoA reductase-like,GB46772,
+XP_001120311.1,very-long-chain enoyl-CoA reductase-like,GB46772,
+XP_006567339.1 ,WD repeat-containing protein 37-like isoform X4,GB44208,No more X4 taking X3 x2
+XP_006567338.1 ,WD repeat-containing protein 37-like isoform X4,GB44208,No more X4 taking X3 x2
+XP_006561705.1 ,uncharacterized protein LOC409805 isoform X3,GB42792,"No more X3, taking X1, X2"
+XP_393297.4 ,uncharacterized protein LOC409805 isoform X3,GB42792,"No more X3, taking X1, X2"
+XP_623357.1 ,transketolase isoform 1,GB55537,
+XP_016767773.1  ,translation elongation factor 2-like isoform 1,GB46713,
+XP_006560146.1,tropomyosin-1-like,GB47990,
+NP_001035348.1,"troponin T, skeletal muscle",GB51214,
+XP_623220.1,tubulin alpha-1 chain-like,GB46039,
+XP_026300848.1 ,neurofilament heavy polypeptide,LOC102654676,Added because of 'name' not being found to be same as GB 409060

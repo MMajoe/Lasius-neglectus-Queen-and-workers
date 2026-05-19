@@ -1,0 +1,17 @@
+﻿,"Navigation of the paper ""Queen loss in Lasius neglectus """,,,,,
+Sr. no,Analysis,R-script,Data files,Result-supplementary table,Fig. associated,
+1,Susceptibility of workers to oxidative stress,Supplementary_RScript_OxidativeStress_Lneglectus.R,SupplementaryTable5_OxStressParaquat_Data_Results,neglectus-SupplementaryTable5_OxStressParaquat_Data_Results.xlsx,Fig. 1,
+2,Differential Gene Expression; posterior log2fc dist.,Supplementary_RScript_GeneExpressionDeseq2.R,Lane_metadata.csv; Lasius_neglectus_basedCDSCounts.csv,neglectus-SupplementaryTable6_DEGs_PadjTopGO.xlsx,Fig 2.; supplementary fig 2,
+3,Mean Ovariole length-Age of queens,Supplementary_LneglectusQueens_Ovaries.R,Results_OvariesAvil.xlsx,N/A,supplementary fig 1.,
+4,topGO and BH,Supplementary_RScript_TopGOandBHcorrection.R,"#LasiusNeglectus_proteome_reference_Unique8255lines.txt
+#Up_OldQueens_proteins.txt
+#Up_YoungQueens_proteins.txt
+#FINAL_Up_OldWorkers_ALLproteins_Sorted.txt
+#FINAL_UpyoungWorkers_ALLproteins_Sorted.txt",neglectus-SupplementaryTable6_DEGs_PadjTopGO.xlsx,supplementary fig 3.,
+5,BLAST against proteomes of 9 species,N/A (BLAST),N/A,neglectus-SupplementaryTable4_Allproteins_Blastbesthits.xlsx,N/A,
+6,Comparing against gene lists - Vgs,N/A (reciprocal BLAST p),N/A,neglectus-SupplementaryTable7_Lneg_TIJ_OxStress_Vgs_July.xlsx,Fig 3.,
+7,Comparing against gene lists - TIJ genes,Supplementary_Lneg_OrthofinderGenes_DEG.R,"#LnegTIJOGs.xlsx #neglectus-SupplementaryTable6_DEGs_PadjTopGO.xlsx
+#neglectus-SupplementaryTable4_Allproteins_Blastbesthits.xlsx",neglectus-SupplementaryTable7_Lneg_TIJ_OxStress_Vgs_July.xlsx,N/A,
+8,Comparing against gene lists - Ox. Stress,Supplementary_Lneg_OrthofinderGenes_DEG.R,"#LnegOxStressOgs.xlsx #neglectus-SupplementaryTable6_DEGs_PadjTopGO.xlsx
+#neglectus-SupplementaryTable4_Allproteins_Blastbesthits.xlsx",neglectus-SupplementaryTable7_Lneg_TIJ_OxStress_Vgs_July.xlsx,N/A,
+9,Comparing against gene lists - Holmann et al genes,,,neglectus-SupplementaryTable7_Lneg_TIJ_OxStress_Vgs_July.xlsx,N/A,
