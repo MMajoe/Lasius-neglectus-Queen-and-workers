@@ -1,0 +1,21 @@
+Queen loss fails to elicit physiological and transcriptional responses in workers of the invasive garden ant Lasius neglectus,
+Best BLASTp of all proteins in the proteome provided by  GAGA (Global Ant Genome Alliance). Note that we used the representative proteome where only one representative preotein isoform per gene was present. ,
+,
+"Though proteins were annotated, we conducted a local blastp against species of interest that have published genomes and proteomes on NCBI",
+,
+Lasius niger,GCA_001045655.1_ASM104565v1_protein_laisus.faa
+Drosophila melanogaster,GCF_000001215.4_Release_6_plus_ISO1_MT_protein_drosophilamel.faa
+Acromyrmex ehinatior,GCF_000204515.1_Aech_3.9_protein.faa
+Linepithema humile,GCF_000217595.1_Lhum_UMD_V04_protein.faa
+Atta colombica,GCF_001594045.1_Acol1.0_protein.faa
+Temnothorax curvispinosus,GCF_003070985.1_ASM307098v1_protein.faa
+Harpegnathos saltator,GCF_003227715.1_Hsal_v8.5_protein.faa
+Apis mellifera,GCF_003254395.2_Amel_HAv3.1_protein.faa
+Formica exsecta,GCF_003651465.1_ASM365146v1_protein.faa
+Ooceraea biroi,GCF_003672135.1_Obir_v5.4_protein.faa
+Nassonia vitripennis,GCF_009193385.2_Nvit_psr_1.1_protein.faa
+Odontomachus brunneus,GCF_010583005.1_Obru_v1_protein.faa
+Solenopsis invicta,GCF_016802725.1_UNIL_Sinv_3.0_protein.faa
+,
+,
+,

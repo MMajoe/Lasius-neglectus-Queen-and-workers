@@ -1,0 +1,37 @@
+Protein_ID,GO.ID,Term,Lneg_protein,Caste_age,BLASTPProteinMatch,BLASTP_annotation,E-value,Bit-score,Remarks
+Lneg_g00640,GO:0006260,DNA replication,Lneg_g00640_i1,InsideWorker,ref|XP_024877198.1|,origin recognition complex subunit 2 [Temnothorax curvispinosus],0,859,
+Lneg_g01867,GO:0006260,DNA replication,Lneg_g01867_i1,InsideWorker,gb|KMQ96769.1|,replication factor c subunit 2 [Lasius niger],0,712,
+Lneg_g03525,GO:0006260,DNA replication,Lneg_g03525_i1,InsideWorker,gb|KMQ94907.1|,ribonucleoside-diphosphate reductase large subunit [Lasius niger],0,1040,
+Lneg_g03897,GO:0006260,DNA replication,Lneg_g03897_i1,InsideWorker,ref|XP_011347208.1|,replication factor C subunit 5 [Ooceraea biroi],0,644,
+Lneg_g04134,GO:0006260,DNA replication,Lneg_g04134_i1,InsideWorker,gb|KMQ86823.1|,dna primase small subunit [Lasius niger],0,865,
+Lneg_g04180,GO:0006260,DNA replication,Lneg_g04180_i1,InsideWorker,gb|KMQ96226.1|,replication factor c subunit 1 [Lasius niger],0,2017,
+Lneg_g04681,GO:0006260,DNA replication,Lneg_g04681_i1,InsideWorker,gb|KMQ93182.1|,dna replication factor cdt1 [Lasius niger],0,1307,
+Lneg_g05399,GO:0006260,DNA replication,Lneg_g05399_i2,InsideWorker,ref|XP_026297298.1|,ribonucleoside-diphosphate reductase large subunit [Apis mellifera],0,1292,
+Lneg_g05501,GO:0006260,DNA replication,Lneg_g05501_i1,InsideWorker,gb|KMQ88562.1|,dna replication licensing factor mcm7-like protein [Lasius niger],0,1491,
+Lneg_g05928,GO:0006260,DNA replication,Lneg_g05928_i1,InsideWorker,ref|XP_024892855.1|,uncharacterized protein LOC112468059 [Temnothorax curvispinosus],4.00E-51,159,
+Lneg_g06216,GO:0006260,DNA replication,Lneg_g06216_i1,InsideWorker,gb|KMQ90872.1|,dna polymerase delta small subunit-like protein [Lasius niger],0,879,
+Lneg_g06715,GO:0006260,DNA replication,Lneg_g06715_i1,InsideWorker,gb|KMQ94424.1|,dna polymerase epsilon subunit 2 [Lasius niger],0,947,
+Lneg_g07462,GO:0006260,DNA replication,Lneg_g07462_i1,InsideWorker,ref|XP_011065878.1|,PREDICTED: protein MMS22-like [Acromyrmex echinatior],0,1906,
+Lneg_g08077,GO:0006260,DNA replication,Lneg_g08077_i1,InsideWorker,ref|XP_024874464.1|,DNA replication complex GINS protein PSF1-like [Temnothorax curvispinosus],2.70E-136,381,
+Lneg_g10227,GO:0006260,DNA replication,Lneg_g10227_i2,InsideWorker,gb|KMQ97706.1|,dna polymerase delta subunit 3-like protein [Lasius niger],0,919,
+Lneg_g12880,GO:0006260,DNA replication,Lneg_g12880_i1,InsideWorker,gb|KMQ95069.1|,dna replication licensing factor mcm3-like protein [Lasius niger],0,1679,
+Lneg_g12944,GO:0006260,DNA replication,Lneg_g12944_i3,InsideWorker,ref|XP_024871367.1|,"twinkle protein, mitochondrial [Temnothorax curvispinosus]",0,1096,
+Lneg_g10026,GO:0008203,cholesterol metabolic process,Lneg_g10026_i1,OutsideWorker,ref|XP_012229728.1|,PREDICTED: hormone-sensitive lipase [Linepithema humile],2.40E-79,262,Also expressed in old queens
+Lneg_g10677,GO:0008203,cholesterol metabolic process,Lneg_g10677_i1,OutsideWorker,ref|XP_012229728.1|,PREDICTED: hormone-sensitive lipase [Linepithema humile],8.19E-56,201,Also expressed in old queens
+Lneg_g11797,GO:0008203,cholesterol metabolic process,Lneg_g11797_i1,OutsideWorker,ref|XP_011340270.1|,probable phosphomevalonate kinase [Ooceraea biroi],3.01E-109,313,
+Lneg_g00790,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g00790_i1,OutsideWorker,ref|XP_011175266.2|,nuclear protein localization protein 4 homolog [Solenopsis invicta],0,1291,
+Lneg_g01622,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g01622_i1,OutsideWorker,ref|XP_024867567.1|,proteasome subunit beta type-4-like [Temnothorax curvispinosus],1.29E-115,331,
+Lneg_g05162,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g05162_i1,OutsideWorker,ref|XP_011339939.1|,proteasome subunit alpha type-5 [Ooceraea biroi],0,501,Also expressed in old queens
+Lneg_g05171,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g05171_i1,OutsideWorker,ref|XP_011167410.1|,proteasome subunit alpha type-6 [Solenopsis invicta],0,504,Also expressed in old queens
+Lneg_g07066,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g07066_i1,OutsideWorker,ref|XP_024880955.1|,uncharacterized protein LOC112460489 [Temnothorax curvispinosus],0,523,
+Lneg_g09234,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g09234_i1,OutsideWorker,gb|KMQ98150.1|,cullin-2 [Lasius niger],0,1566,
+Lneg_g12756,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g12756_i1,OutsideWorker,ref|XP_012224716.1|,PREDICTED: ubiquitin conjugation factor E4 A isoform X1 [Linepithema humile],0,1833,
+Lneg_g13954,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g13954_i1,OutsideWorker,ref|XP_024875312.1|,proteasome subunit alpha type-1 [Temnothorax curvispinosus],5.12E-176,488,Also expressed in old queens
+Lneg_g16342,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g16342_i1,OutsideWorker,ref|NP_525092.1|,proteasome alpha4 subunit [Drosophila melanogaster],6.25E-141,397,Also expressed in old queens
+Lneg_g16793,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g16793_i2,OutsideWorker,ref|XP_011344050.1|,elongin-C isoform X1 [Ooceraea biroi],1.24E-100,287,
+Lneg_g10026,GO:0008203,cholesterol metabolic process,Lneg_g10026_i1,OldQueen,ref|XP_012229728.1|,PREDICTED: hormone-sensitive lipase [Linepithema humile],2.40E-79,262,Also expressed in outside workers
+Lneg_g10677,GO:0008203,cholesterol metabolic process,Lneg_g10677_i1,OldQueen,ref|XP_012229728.1|,PREDICTED: hormone-sensitive lipase [Linepithema humile],8.19E-56,201,Also expressed in outside workers
+Lneg_g05162,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g05162_i1,OldQueen,ref|XP_011339939.1|,proteasome subunit alpha type-5 [Ooceraea biroi],0,501,Also expressed in outside workers
+Lneg_g05171,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g05171_i1,OldQueen,ref|XP_011167410.1|,proteasome subunit alpha type-6 [Solenopsis invicta],0,504,Also expressed in outside workers
+Lneg_g13954,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g13954_i1,OldQueen,ref|XP_024875312.1|,proteasome subunit alpha type-1 [Temnothorax curvispinosus],5.12E-176,488,Also expressed in outside workers
+Lneg_g16342,GO:0051603,proteolysis involved in cellular protein catabolic process,Lneg_g16342_i1,OldQueen,ref|NP_525092.1|,proteasome alpha4 subunit [Drosophila melanogaster],6.25E-141,397,Also expressed in outside workers

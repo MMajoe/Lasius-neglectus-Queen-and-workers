@@ -1,0 +1,9 @@
+Queen loss fails to elicit physiological and transcriptional responses in workers of the invasive garden ant Lasius neglectus
+The DEGS were separated by the sign (+ or -) of logfoldchange
+"Though proteins were annotated, we conducted a local blastp against species of interest that have published genomes and proteomes on NCBI"
+The first two sheets contain the differentially expressed gene lists associated with position of workers with respect to their nests (outside versus inside) . They are arranged such that those with the highest log fold change and most significant are arranged on top.
+The next two sheets contain the DEGs associated with age of queens. They are arranged such that those with the highest log fold change and most significant are arranged on top.
+The next  four sheets indicate  results of the GO enrichment in Lasius neglectus with TopGO package. Weight01 statistics and Fisher’s test to determine significance of term enriched. Further manual correction for multiple testing was conducted with the R  function p.adjust() with BH method
+
+We selected 3 GO terms of interest from the enriched terms and the universes of proteins from those GO terms are provided
+"The last sheet contains those proteins/genes from inside workers, outside workers and old queens which are from the DEG list respectively associated with those GO terms"

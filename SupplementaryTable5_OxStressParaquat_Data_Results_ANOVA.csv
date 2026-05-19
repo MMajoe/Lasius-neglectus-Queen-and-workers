@@ -1,0 +1,20 @@
+FULL MODEL,n=196,deaths=182,
+,Df,Chisq,Pr(>Chisq)
+Location,1,17.5032,0.00002868***
+Queen Presence,1,0.5467,0.4597
+Treatment,1,26.0972,0.0000003247***
+Location:Queen Presence,1,0.1887,0.664
+Location:Treatment,1,0.3204,0.5714
+Queen Presence:Treatment,1,1.7707,0.1833
+,,,
+WATER TREATMENT,n=97,deaths=84,
+,Df ,Chisq,  Pr(>Chisq)  
+Queen Presence,1,2.0645,0.15077
+Location    ,1,5.9553,0.01467 *
+Queen Presence:Location  ,1,0.0501,0.82292
+,,,
+PARAQUAT TREATMENT,n=99,deaths=98,
+,Df,Chisq,Pr(>Chisq)
+Queen Presence,1,0.0747,0.784622
+Location,1,11.5792,0.000667***
+Queen Presence:Location,1,0.6337,0.426018

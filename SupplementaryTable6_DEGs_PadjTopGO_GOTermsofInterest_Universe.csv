@@ -1,0 +1,115 @@
+Protein_ID,GO.ID,Term
+HSL_Lneg_g01732,GO:0008203,cholesterol metabolic process
+HSL_Lneg_g09824,GO:0008203,cholesterol metabolic process
+Lneg_g07513,GO:0008203,cholesterol metabolic process
+Lneg_g10026,GO:0008203,cholesterol metabolic process
+Lneg_g10677,GO:0008203,cholesterol metabolic process
+Lneg_g11797,GO:0008203,cholesterol metabolic process
+Lneg_g00195,GO:0006260,DNA replication
+Lneg_g00629,GO:0006260,DNA replication
+Lneg_g00633,GO:0006260,DNA replication
+Lneg_g00640,GO:0006260,DNA replication
+Lneg_g01115,GO:0006260,DNA replication
+Lneg_g01426,GO:0006260,DNA replication
+Lneg_g01867,GO:0006260,DNA replication
+Lneg_g03525,GO:0006260,DNA replication
+Lneg_g03527,GO:0006260,DNA replication
+Lneg_g03799,GO:0006260,DNA replication
+Lneg_g03897,GO:0006260,DNA replication
+Lneg_g04134,GO:0006260,DNA replication
+Lneg_g04180,GO:0006260,DNA replication
+Lneg_g04468,GO:0006260,DNA replication
+Lneg_g04681,GO:0006260,DNA replication
+Lneg_g04722,GO:0006260,DNA replication
+Lneg_g05258,GO:0006260,DNA replication
+Lneg_g05399,GO:0006260,DNA replication
+Lneg_g05501,GO:0006260,DNA replication
+Lneg_g05928,GO:0006260,DNA replication
+Lneg_g06162,GO:0006260,DNA replication
+Lneg_g06216,GO:0006260,DNA replication
+Lneg_g06715,GO:0006260,DNA replication
+Lneg_g06855,GO:0006260,DNA replication
+Lneg_g06961,GO:0006260,DNA replication
+Lneg_g07097,GO:0006260,DNA replication
+Lneg_g07343,GO:0006260,DNA replication
+Lneg_g07462,GO:0006260,DNA replication
+Lneg_g07465,GO:0006260,DNA replication
+Lneg_g08077,GO:0006260,DNA replication
+Lneg_g08248,GO:0006260,DNA replication
+Lneg_g08469,GO:0006260,DNA replication
+Lneg_g09164,GO:0006260,DNA replication
+Lneg_g09173,GO:0006260,DNA replication
+Lneg_g09247,GO:0006260,DNA replication
+Lneg_g10227,GO:0006260,DNA replication
+Lneg_g10641,GO:0006260,DNA replication
+Lneg_g10915,GO:0006260,DNA replication
+Lneg_g12639,GO:0006260,DNA replication
+Lneg_g12880,GO:0006260,DNA replication
+Lneg_g12944,GO:0006260,DNA replication
+Lneg_g13335,GO:0006260,DNA replication
+Lneg_g13875,GO:0006260,DNA replication
+Lneg_g14319,GO:0006260,DNA replication
+Lneg_g14580,GO:0006260,DNA replication
+Lneg_g15201,GO:0006260,DNA replication
+Lneg_g16179,GO:0006260,DNA replication
+Lneg_g16303,GO:0006260,DNA replication
+Lneg_g00790,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g01622,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g02599,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g03353,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g03462,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g03756,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g04449,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g04493,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g05162,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g05171,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g06165,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g06615,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g07066,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g07318,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g07338,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g07364,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g08569,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g09234,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g09235,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g09387,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g10543,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g11172,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g11445,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g11959,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g12196,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g12294,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g12441,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g12756,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g13352,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g13954,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g14564,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g14767,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g15038,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g16118,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g16342,GO:0051603,proteolysis involved in cellular protein catabolic process
+Lneg_g16793,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C12_ubiquitin_carboxyl-terminal_hydrolase_1_Lneg_g02377,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C12_ubiquitin_carboxyl-terminal_hydrolase_1_Lneg_g02559,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C12_ubiquitin_carboxyl-terminal_hydrolase_1_Lneg_g05980,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g00842,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g02496,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g02710,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g03148,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g03609,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g04201,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g05635,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g06446,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g06844,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g08408,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g08578,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g08872,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g08998,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g12159,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g13531,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g15497,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g15565,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_Lneg_g16884,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_T1A_proteasome_beta-subunit_Lneg_g04469,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_T1A_proteasome_beta-subunit_Lneg_g11302,GO:0051603,proteolysis involved in cellular protein catabolic process
+Peptidase_T1A_proteasome_beta-subunit_Lneg_g14339,GO:0051603,proteolysis involved in cellular protein catabolic process
