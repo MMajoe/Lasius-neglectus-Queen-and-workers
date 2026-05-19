@@ -1,4 +1,5 @@
 Data, R-scripts and results associated with paper titled "Queen loss fails to elicit physiological and transcriptional responses in workers of the invasive garden ant Lasius neglectus"
+Most Supllementary files are formatted as .xlsx with multiple sheets but for ease of publication and standardising across OS, each sheet is also present as .csv where the prefix specifies which supplementary table they belong to.
 
 Separate Files:
 Supplementary Table 3: Genome statistics
