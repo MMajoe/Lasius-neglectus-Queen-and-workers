@@ -1,5 +1,5 @@
 Data, R-scripts and results associated with paper titled "Queen loss fails to elicit physiological and transcriptional responses in workers of the invasive garden ant Lasius neglectus"
-Most Supllementary files are formatted as .xlsx with multiple sheets but for ease of publication and standardising across OS, each sheet is also present as .csv where the prefix specifies which supplementary table they belong to.
+Most supplementary files are formatted as .xlsx with multiple sheets but for ease of publication and standardising across OS, each sheet is also present as .csv where the prefix specifies which supplementary table they belong to.
 
 The data is specific in branches "Data" and "results" and contains all the .csv versions 
 
@@ -12,7 +12,7 @@ Supplementary Table 7: Candidate genes (TiJ-LiFe, oxidative stress, vitellogenin
 
 
 Data Files:
-1.	ReadM_Me_FilesAndSheets_Analyses.xlsx
+1.	Read_Me_FilesAndSheets_Analyses.xlsx
 2.	DESeq2 analysis:
 Lane_metadata.csv; Lasius_neglectus_basedCDSCounts.csv
 3.	Interproscan and DEG results used in topGO analyses:
